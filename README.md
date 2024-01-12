@@ -1,4 +1,4 @@
-# Salon Management Terms Of Use & Conditions
+# Salon Management Terms & Conditions
 
 Welcome to Salon Management!
 
