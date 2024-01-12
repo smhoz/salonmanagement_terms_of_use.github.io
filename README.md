@@ -1,45 +1,94 @@
-# Salon Management Kullanım Koşulları
+# Salon Management Terms Of Use & Conditions
 
-Hoş geldiniz Salon Randevu'ya!
+Welcome to Salon Management!
 
-Bu şartlar ve koşullar, VatanSoft'un salonrandevu.com adresindeki web sitesinin kullanımına ilişkin kuralları ve düzenlemeleri belirtmektedir.
+These terms and conditions outline the rules and regulations for the use of VatanSoft's Website, located at salonrandevu.com.
 
-Bu web sitesine erişerek, bu şartları ve koşulları kabul ettiğinizi varsayıyoruz. Eğer bu sayfadaki tüm şartları ve koşulları kabul etmiyorsanız, lütfen Salon Randevu'yu kullanmaya devam etmeyin.
+By accessing this website we assume you accept these terms and conditions. Do not continue to use Salon Randevu if you do not agree to take all of the terms and conditions stated on this page.
 
-Aşağıdaki terimler, Bu Şartlar ve Koşullar, Gizlilik Bildirimi ve Reddi Kabul Bildirimi ile tüm Anlaşmalar için geçerlidir: "Müşteri", "Siz" ve "Sizin" sizin bu web sitesine giriş yapmış ve Şirket'in şartlarını ve koşullarını yerine getiren kişiyi ifade eder. "Şirket", "Biz", "Kendimiz", "Bizim" ve "Bize", şirketimizi ifade eder. "Taraf", "Taraflar" veya "Biz", hem Müşteri'yi hem de kendimizi ifade eder. Tüm terimler, Şirket'in belirtilen hizmetlerini sağlama amacı doğrultusunda Müşteri'nin ihtiyaçlarını karşılamak için yardım sürecini yürütmek için gerekli olan öneri, kabul ve ödeme düşüncesiyle birlikte, tr yürürlükteki hukuka uygun olarak, değiş tokuş, kabul ve düşünceyi ifade eder. Yukarıdaki terimler veya diğer kelimelerin, tekil, çoğul, büyük harf kullanımı ve/veya o, he/she veya they gibi kelimelerin eşanlamlı olarak kabul edilir ve bu nedenle aynı şeyi ifade ettiği kabul edilir.
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company's terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client's needs in respect of provision of the Company's stated services, in accordance with and subject to, prevailing law of tr. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
-Çerezler Çerez kullanımını benimsiyoruz. Salon Randevu'ya erişerek, VatanSoft'un Gizlilik Politikası ile uygun olarak çerez kullanımını kabul etmiş sayılırsınız.
+Cookies
+We employ the use of cookies. By accessing Salon Management, you agreed to use cookies in agreement with the VatanSoft's Privacy Policy.
 
-Çoğu etkileşimli web sitesi, her ziyaret için kullanıcının detaylarını almak için çerezleri kullanır. Çerezler, web sitemizi ziyaret eden kişilere belirli alanların işlevselliğini etkinleştirmek için kullanılır. Bazı bağlı kuruluşlar / reklam ortakları da çerez kullanabilir.
+Most interactive websites use cookies to let us retrieve the user's details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.
 
-Lisans Aksi belirtilmedikçe, VatanSoft ve/veya lisans sahipleri, Salon Randevu üzerindeki tüm materyallerin fikri mülkiyet haklarına sahiptir. Tüm fikri mülkiyet hakları saklıdır. Bu şartlar ve koşullarda belirlenen kısıtlamalara tabi olmak üzere, Salon Randevu'ya kendi kişisel kullanımınız için erişebilirsiniz.
+License
+Unless otherwise stated, VatanSoft and/or its licensors own the intellectual property rights for all material on Salon Randevu. All intellectual property rights are reserved. You may access this from Salon Randevu for your own personal use subjected to restrictions set in these terms and conditions.
 
-Aşağıdaki durumlar hariç, şunları yapmamalısınız:
+You must not:
 
-Salon Randevu'dan materyal yeniden yayımlamak Salon Randevu'dan materyali satmak, kiralamak veya alt lisanslamak Salon Randevu'dan materyali çoğaltmak, çoğaltmak veya kopyalamak Salon Randevu içeriğini yeniden dağıtmak Bu Anlaşma, bu tarihte başlar. Şartlarımız ve Koşullarımız, Ücretsiz Şartlar ve Koşullar Oluşturucu'nun yardımıyla oluşturulmuştur. Bu web sitesinin bazı bölümleri, kullanıcılara web sitesinin belirli alanlarında görüş ve bilgi gönderme fırsatı sunar. VatanSoft, yorumları web sitesinde varlıklarından önce filtrelemez, düzenlemez, yayımlamaz veya gözden geçirmez. Yorumlar, VatanSoft'un, temsilcilerinin ve/veya bağlı kuruluşlarının görüş ve düşüncelerini yansıtmaz. Yorumlar, görüş ve düşüncelerini gönderen kişinin görüş ve düşüncelerini yansıtır. Uygulanabilir yasalara izin verdiği ölçüde, VatanSoft, web sitesindeki Yorumlardan kaynaklanan ve/veya bunların varlığından kaynaklanan herhangi bir kullanım veya Yorumların görünmesinden kaynaklanan sorumluluk, zarar veya masrahtan sorumlu olmayacaktır.
+Republish material from Salon Randevu
+Sell, rent or sub-license material from Salon Randevu
+Reproduce, duplicate or copy material from Salon Randevu
+Redistribute content from Salon Randevu
+This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Free Terms and Conditions Generator.
 
-VatanSoft, tüm Yorumları izleme ve bu Şartlar ve Koşulları ihlal edebilecek, uygunsuz, saldırgan veya yasa dışı olarak kabul edilebilecek Yorumları kaldırma hakkını saklı tutar.
+Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. VatanSoft does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of VatanSoft,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, VatanSoft shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
 
-Siz şunları beyan ve temsil edersiniz:
+VatanSoft reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
 
-Web sitemizde Yorumları gönderme hakkına sahipsiniz ve bunu yapmak için gerekli tüm lisanslara ve onaylara sahipsiniz. Yorumlar, herhangi bir üçüncü tarafın telif hakkı, patent veya ticari marka dahil olmak üzere herhangi bir fikri mülkiyet hakkını ihlal etmez. Yorumlar, gizliliğin ihlali olan, iftira, hakaret, edebe aykırı veya başka türlü yasa dışı materyal içermez. Yorumlar, iş veya özel müşteri çekmek veya tanıtmak, ticari faaliyetleri veya yasa dışı faaliyetleri sunmak için kullanılmayacak. Siz, VatanSoft'a Yorumlarınızın herhangi bir formatta, biçimde veya ortamda kullanımı, çoğaltılması, düzenlenmesi ve başkalarına kullanım, çoğaltma ve düzenleme yetkisi veren bir devredilemez lisans verirsiniz. İçeriklerimize Bağlantı Verme Aşağıdaki kuruluşlar, önceden yazılı izin olmadan web sitemize bağlantı verebilir:
+You warrant and represent that:
 
-Hükümet kurumları Arama motorları Haber kuruluşları Online dizin dağıtıcıları, diğer listelenmiş işletmelerin web sitelerine bağlandıkları gibi web sitemize bağlantı verebilirler; ve Sistem genelinde akredite işletmeler, kar amacı gütmeyen kuruluşlar, yardım alışveriş merkezleri ve yardım toplama grupları hariç, web sitemize bağlantı vermeyi reddedebilir. Bu kuruluşlar, bağlantının: (a) herhangi bir şekilde yanıltıcı olmaması; (b) bağlantı kuran tarafın ve ürünlerinin ve/veya hizmetlerinin sponsorluğunu, onayını veya onayını yanıltıcı bir şekilde ima etmemesi; ve (c) bağlantı kuran tarafın sitesinin bağlamı içinde yer alması koşuluyla, web sitemizin ana sayfasına, yayınlarına veya diğer web sitesi bilgilerine bağlantı verebilirler. Biz şu tür kuruluşların diğer bağlantı taleplerini düşünebilir ve onaylayabiliriz:
+You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;
+The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;
+The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy
+The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.
+You hereby grant VatanSoft a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.
 
-Genellikle bilgi kaynaklarını temsil eden tüketici ve/veya iş bilgi kaynakları dot.com topluluk siteleri hayır kurumlarını temsil eden dernekler veya diğer gruplar çevrimiçi dizin dağıtıcıları internet portalı muhasebe, hukuk ve danışmanlık firmaları; ve eğitim kurumları ve ticaret birlikleri. Eğer yukarıdaki paragrafta listelenen kuruluşlardan biriyseniz ve web sitemize bağlantı verme konusunda ilgilisiniz, bize VatanSoft'a bir e-posta göndererek bilgi vermelisiniz. Lütfen adınızı, organizasyon adınızı, iletişim bilgilerinizi ve sitenizin URL'sini, web sitemize bağlantı vermek istediğiniz URL'lerin bir listesini içerir şekilde gönderin ve yanıt için 2-3 hafta bekleyin. Onaylanan kuruluşlar, şu şekillerde web sitemize bağlantı verebilirler:
+Hyperlinking to our Content
+The following organizations may link to our Website without prior written approval:
 
-Kurumsal adımızın kullanımı ile; veya Bağlantı verilen uniform resource locator (URL) kullanımı ile; veya Bağlantı veren tarafın sitesinin içeriği ve formatı içinde anlam ifade eden diğer bir tarife. VatanSoft'un logosunun veya diğer sanat eserlerinin bağlantı için ticari marka lisans anlaşması olmadan kullanılmasına izin verilmeyecektir. iFrame'ler Önceden onay ve yazılı izin olmadan, web sayfalarımızın görsel sunumunu herhangi bir şekilde değiştiren iFrame'ler oluşturamazsınız.
+Government agencies;
+Search engines;
+News organizations;
+Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and
+System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.
+These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party's site.
 
-İçerik Sorumluluğu Web sitenizde görünen içeriklerden sorumlu tutulmayacağız. Web sitenizde yükselen tüm iddialara karşı bizi koruma ve savunma konusunda anlaşmayı kabul edersiniz. Hiçbir link, iftira, müstehcen veya suçlu olarak yorumlanabilecek içeriklerin, başka bir deyişle herhangi bir üçüncü taraf haklarını ihlal eden veya diğer şekillerde ihlal eden bir içerik içermemelidir.
+We may consider and approve other link requests from the following types of organizations:
 
-Hakların Saklı Tutulması Web sitemize yönlendirdiğiniz tüm bağlantıları veya belirli bir bağlantıyı kaldırmanızı isteme hakkını saklı tutarız. Web sitemize yönlendirdiğiniz tüm bağlantıları hemen kaldırma konusunda onay verirsiniz. Aynı zamanda, bu şartları ve bağlantı politikasını istediğimiz zaman değiştirme hakkını da saklı tutarız. Web sitemize sürekli olarak bağlantı yaparak, bu bağlantı şartlarına uymayı ve bunları takip etmeyi kabul etmiş olursunuz.
+commonly-known consumer and/or business information sources;
+dot.com community sites;
+associations or other groups representing charities;
+online directory distributors;
+internet portals;
+accounting, law and consulting firms; and
+educational institutions and trade associations.
+We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of VatanSoft; and (d) the link is in the context of general resource information.
 
-Web sitemizden bağlantıların kaldırılması Web sitemizde herhangi bir nedenle rahatsız edici bulduğunuz bir bağlantı bulursanız, bizi her an arayabilir ve bilgilendirebilirsiniz. Bağlantıları kaldırma taleplerini değerlendireceğiz, ancak doğrudan size yanıt vermekle yükümlü değiliz.
+These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party's site.
 
-Bu web sitesindeki bilgilerin doğru olduğunu garanti etmiyoruz, eksiksiz veya doğru olduğunu taahhüt etmiyoruz; ayrıca, web sitesinin her zaman kullanılabilir veya web sitesindeki materyallerin güncel tutulacağını da taahhüt etmiyoruz.
+If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to VatanSoft. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
 
-Feragat Uygulanabilir yasalarca izin verilen maksimum ölçüde, web sitemize ve bu web sitesinin kullanımına ilişkin tüm temsil, garanti ve koşulları hariç tutarız. Bu feragatte hiçbir şey:
+Approved organizations may hyperlink to our Website as follows:
 
-ölüm veya kişisel yaralanma durumlarındaki sorumluluğumuzu veya sizin sorumluluğunuzu sınırlamaz veya hariç tutmaz; dolandırıcılık veya hileli beyan sorumluluğumuzu veya sizin sorumluluğunuzu sınırlamaz veya hariç tutmaz; uygulanabilir yasa altında izin verilmeyen herhangi bir şekilde, sorumluluklarımızı veya sizin sorumluluğunuzu sınırlamaz; uygulanabilir yasa altında hariç tutulamayacak herhangi bir sorumluluğumuzu veya sizin sorumluluğunuzu hariç tutmaz. Bu Bölümde ve bu feragatnamedeki başka yerlerde belirlenen sorumluluk sınırlamaları ve yasaklamaları: (a) önceki paragraftan etkilenir; ve (b) feragatnameden kaynaklanan, sözleşme, haksız fiil ve yasal görev ihlali dahil olmak üzere tüm sorumlulukları düzenler.
+By use of our corporate name; or
+By use of the uniform resource locator being linked to; or
+By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party's site.
+No use of VatanSoft's logo or other artwork will be allowed for linking absent a trademark license agreement.
 
-Web sitesi ve web sitesinde sunulan bilgi ve hizmetler ücretsiz olduğu sürece, herhangi bir doğal kaybın veya zararın sorumluluğumuz olmayacaktır.
+iFrames
+Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.
+
+Content Liability
+We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
+
+Reservation of Rights
+We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it's linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.
+
+Removal of links from our website
+If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.
+
+We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.
+
+Disclaimer
+To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:
+
+limit or exclude our or your liability for death or personal injury;
+limit or exclude our or your liability for fraud or fraudulent misrepresentation;
+limit any of our or your liabilities in any way that is not permitted under applicable law; or
+exclude any of our or your liabilities that may not be excluded under applicable law.
+The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
+
+As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
